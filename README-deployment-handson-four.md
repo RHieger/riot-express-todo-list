@@ -31,3 +31,14 @@ to get Nginx running. Complete the following:
 * Configure Nginx
 
 * Route Traffic to handle load balancing
+
+## PROJECT NOTES
+
+After much machination and numerous efforts to finish all requirements of this
+assignment, I was able to hit approximately the 3/4 complete mark. Then I
+encountered an obscure error with the **Nginx** server that neither I, nor my
+mentor were able to solve, at least initially.
+
+We decided jointly that it would be in the best interest of time for me to turn
+in what I have—roughly 3/4 of the assignment, in the hopes that I will find some
+time in the future to re-visit the assignment and complete it.
